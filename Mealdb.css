@@ -1,0 +1,14 @@
+input{
+    font-size: larger;
+    height: 30px;
+    width: 500px;
+    text-align: center;
+    margin-top: 20px;
+    border: 2px solid whitesmoke;
+    background-color: maroon;
+    color: yellowgreen;
+    margin-right: 5px;
+}
+::placeholder{
+    color: yellowgreen;
+}
